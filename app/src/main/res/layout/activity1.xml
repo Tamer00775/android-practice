@@ -108,6 +108,6 @@
         app:layout_constraintEnd_toEndOf="@id/login_button"
         android:layout_margin="16dp"
         />
-
+<!--> Text <!-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
